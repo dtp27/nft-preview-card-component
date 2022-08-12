@@ -28,22 +28,25 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![](component-screenshot.png)
 
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/dtp27/product-preview-card-component)
-- Live Site URL: [NFT Preview Card Component]()
+- Live Site URL: [NFT Preview Card Component](https://dtp27.github.io/nft-preview-card-component/)
 
 ## My process
-1. 
+1. Structured the semantic HTML
+2. Wrote the general styles for the page
+3. Styled the component top to bottom
+4. Tweaked the layout margins/padding/sizing based on the mobile (375px-width) view
 
 ### Built with
-- 
+- Semantic HTML/CSS
+- Flexbox + Grid
 
 ### Challenges
-1. 
+1. My biggest challenge is understanding how to overlay the view icon on the NFT picture, while centering the view icon as well.
 
 ### Useful resources
 
