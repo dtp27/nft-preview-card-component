@@ -159,12 +159,12 @@ footer a:hover {
     font-size: 0.9rem;
 }
 
-.nft-attribution figcaption>a {
+.nft-attribution figcaption a {
     color: hsl(0, 0%, 100%);
     text-decoration: none;
     font-size: inherit;
 }
 
-.nft-attribution figcaption>a:hover {
+.nft-attribution figcaption a:hover {
     color: hsl(178, 100%, 50%);
 }
